@@ -1,3 +1,6 @@
+import time
+
+
 normal = 1
 cold = 20
 chocolate = 15
@@ -31,7 +34,6 @@ match choice:
         print("Invalid option selected")
 
 print("Your coffee is ready in 5 minutes")
-import time
 time.sleep(5)
 print("Your coffee is ready")
 print("Thank you for using my coffee machine")
