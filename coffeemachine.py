@@ -1,6 +1,5 @@
 import time
 
-
 normal = 10
 cold = 20
 chocolate = 15
